@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the published paper."
+title: "Phenomenological Invariants as Internal Rendezvous Tokens Under Irreversible Time"
+version: "1.0"
+authors:
+  - family-names: de Beer
+    given-names: Riaan
+doi: "10.5281/zenodo.18598801"
+date-released: 2026
+repository-code: "https://github.com/infinityabundance/phenomenological-invariants"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: de Beer
+      given-names: Riaan
+  year: 2026
+  title: "Phenomenological Invariants as Internal Rendezvous Tokens Under Irreversible Time"
+  version: "v1.0"
+  journal: "Zenodo"
+  doi: "10.5281/zenodo.18598801"
