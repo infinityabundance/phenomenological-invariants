@@ -5,6 +5,9 @@ A foundational note on phenomenological invariants as internal rendezvous tokens
 This repository provides a stable mirror of the paper  
 **“Phenomenological Invariants as Internal Rendezvous Tokens Under Irreversible Time.”**
 
+Citation:
+de Beer, R. (2026). Phenomenological Invariants as Internal Rendezvous Tokens Under Irreversible Time (v1.0). Zenodo. https://doi.org/10.5281/zenodo.18598801
+
 The work introduces a minimal, substrate-independent framework in which qualia
 are treated as internal semantic rendezvous tokens arising from self-reference
 under irreversible time.
