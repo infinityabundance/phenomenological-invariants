@@ -1,6 +1,8 @@
 # Phenomenological Invariants
-A foundational note on phenomenological invariants as internal rendezvous tokens arising from self-reference under irreversible time.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18598801.svg)](https://doi.org/10.5281/zenodo.18598801)
+---
+A foundational note on phenomenological invariants as internal rendezvous tokens arising from self-reference under irreversible time.
+
 
 
 
